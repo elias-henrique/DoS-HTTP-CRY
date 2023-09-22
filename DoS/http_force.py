@@ -1,11 +1,9 @@
 import json
 import random
 import requests
+from time import time
 from colorama import Fore
-
 from requests.exceptions import Timeout
-from threading import Thread
-from time import time, sleep
 
 
 class DoSFlooder:

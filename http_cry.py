@@ -20,9 +20,8 @@ asciis = [Bloody, Delta, Elite, ale, Glenyn]
 colors = [Fore.RED, Fore.GREEN, Fore.YELLOW,
           Fore.BLUE, Fore.MAGENTA, Fore.CYAN, Fore.WHITE]
 
+
 # Function to get user input for URL, threads, and time
-
-
 def get_user_input():
     while True:
         questions = [
@@ -49,10 +48,8 @@ def get_user_input():
 
 
 def main():
-    
     print(random.choice(colors) + random.choice(asciis) + "\n")
-    print(
-        f"url: {DEFAULT_URL}, threads: {DEFAULT_THREADS}, time: {DEFAULT_TIME}\n\n")
+    print(f"url: {DEFAULT_URL}, threads: {DEFAULT_THREADS}, time: {DEFAULT_TIME}\n\n")
 
     answers = get_user_input()
 
