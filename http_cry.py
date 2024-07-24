@@ -74,6 +74,9 @@ def main():
 if __name__ == "__main__":
     try:
         main()
+    except TypeError:
+        clear()
+        exit(0)
     except KeyboardInterrupt:
         clear()
         print("BYE!!")
