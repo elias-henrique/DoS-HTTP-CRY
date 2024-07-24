@@ -1,4 +1,7 @@
 
+![image](https://github.com/user-attachments/assets/791d808b-40ba-43ec-8faf-20ffb6c629ab)
+
+
 ## Debain, Ubuntu:
 ```
 
