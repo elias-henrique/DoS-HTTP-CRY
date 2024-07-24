@@ -1,5 +1,11 @@
 
-<img src="https://github.com/user-attachments/assets/791d808b-40ba-43ec-8faf-20ffb6c629ab" alt="image" width="200" height="200">
+<div align=center>
+
+
+
+<img src="https://github.com/user-attachments/assets/791d808b-40ba-43ec-8faf-20ffb6c629ab" width="400">
+
+
 
 ## Debain, Ubuntu:
 ```
